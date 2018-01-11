@@ -19,9 +19,9 @@ Pod::Spec.new do |s|
   s.source_files  = "*.{h,m}"
   s.resources = "ShareIcon/*.png"
 
-  s.dependency "UMengUShare/Social/Sina", "~> 6.4.4"
-  s.dependency "UMengUShare/Social/WeChat", "~> 6.4.4"
-  s.dependency "UMengUShare/Social/QQ", "~> 6.4.4"
-  s.dependency "UMengUShare/Social/SMS", "~> 6.4.4"
+  s.dependency "UMengUShare/Social/Sina", "~> 6.4.5"
+  s.dependency "UMengUShare/Social/WeChat", "~> 6.4.5"
+  s.dependency "UMengUShare/Social/QQ", "~> 6.4.5"
+  s.dependency "UMengUShare/Social/SMS", "~> 6.4.5"
   s.dependency "UMengAnalytics", "~> 4.2.4"
 end
